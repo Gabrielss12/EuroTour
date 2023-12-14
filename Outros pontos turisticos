@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="vieport" content="width=device-width,initial-scale=1.0">
+    <title>Outros pontos Turísticos</title>
+</head>
+<body>
+    <header>
+        <span>Marco Zero</span>
+        <ul>
+            <li>Historia</li>
+            <li>Outros pontos turisticos</li>
+            <li>Pacote de viagens</li>
+        </ul>
+    </header>
+    <main>
+        <h1>Outros pontos turisticos</h1>
+        <h2>Conhecendo a antiga recife!</h2>
+        <p>Alem do marco zero existem muitos outros pontos turisticos
+    que vale a pena no recife antigo. Destacamos alguns deles a seguir.
+        </p>
+        <h3>1. Museu antigo</h3>
+        <img scr="./public/museu-antigo.jpg" alt="Museu antigo">
+        <h3>2. Museu paco do fervo</h3>
+        <img scr="./public/museu-paco-do-frevo.jpg" alt="Museu paco do fervo">
+        <h3>3. Rua do bom jesus</h3>
+        <img scr=".public/rua-do-bom-jesus.jpg" alt="Rua do bom jesus">
+    
+    </main>
+    <footer>
+        <ul>
+            <li>Facebook</li>
+            <li>Instagram</li>
+            <li>Linkedin</li>
+        </ul>
+    </footer>
+
+</body>
+</html>
