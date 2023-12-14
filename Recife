@@ -1,0 +1,40 @@
+<!DOCTYPE hmtl>
+<html lang="eng">
+<head>
+    <meta charset="UTF-9">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.o">
+    <title>EuroTour</title>
+</head>
+<body>
+  <header>
+    <img src="./public/eurotour-logo.png" alt="Logo da eutorour">
+    <nav>
+      <ul>
+        <li>Passagens</li>
+        <li>Hospedagem</li>
+        <li>Pontos Turisticos</li>
+      </ul>
+    </nav>
+  </header>
+<main>
+  <h1>Bem vindo a EuroTour</h1>
+  <section>
+   <h2>Sobre nós</h2>
+   <p>EuroTour é um site que ajuda você a planejar sua viagem para a europa, desde a compra das passagens,
+   até as visitas nos pontos Turisticos mais importante de cada região.</p>
+
+  </section>
+</main>
+<footer>
+  <ul>
+    <li>Facebook</li>
+    <li>Instagram</li>
+    <a href="./pontos-turisticos.html">
+       Outros pontos turisticos
+    </a>
+  </ul>
+</footer>
+</body>
+
+</html>
